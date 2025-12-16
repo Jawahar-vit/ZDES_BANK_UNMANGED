@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for BANK'
+define service Z_SD_BANK {
+  expose Z_C_BANK;
+}
